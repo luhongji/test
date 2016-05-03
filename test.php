@@ -1,5 +1,5 @@
 <?php
 
-echo "Lu_test"
+echo "Lu_test";
 
 ?>
